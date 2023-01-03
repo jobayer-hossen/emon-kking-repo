@@ -1,0 +1,16 @@
+.w{
+    text-align: center;
+    background-color: aqua;
+    border: 40%; 
+    margin: 40px;
+    border-radius: 5px;
+    padding-block-start: 100px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.n{
+    text-align: center;
+}
